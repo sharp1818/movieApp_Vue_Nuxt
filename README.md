@@ -1,5 +1,5 @@
 # movies_app
-
+deploy in Heroku, link: https://ssmovieapp.herokuapp.com/ 
 ## Build Setup
 
 ```bash
